@@ -1,3 +1,3 @@
 # Ecoli_feature_set
 
-!(ERD)[Ecoli_feature_set_1.0.png]
+![Ecoli feature set](Ecoli_feature_set_1.0.png)
